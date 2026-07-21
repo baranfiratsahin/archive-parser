@@ -1,8 +1,12 @@
-# archive-parser
+<div align="center">
 
-Recovery tooling for large conversation exports: parses raw export dumps into a
-single queryable JSON corpus (575 threads recovered in one pass), with dedupe and
-timeline reconstruction. Built to never lose working context again.
+# Arşiv Kurtarma Aracı
 
-**Stack:** Python · JSON pipelines
-**Status:** Done — corpus feeds rag-council.
+**575 sohbet → tek sorgulanabilir JSON korpus**
+
+</div>
+
+### ⬢ Öne çıkanlar
+- Dışa-aktarım arşivi ayrıştırma
+- Tek birleşik JSON korpus
+- Yerel AI için besleme
